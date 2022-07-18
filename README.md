@@ -1,5 +1,5 @@
 # Weather-App (built in Flutter as well as Android Studio)
-To getting accurate weather details
+To getting accurate weather details using API (<b>openweathermap.org</b>)
 
 # Flutter Output
 <img src="https://user-images.githubusercontent.com/64003300/179444686-805d0eb6-849c-4105-8ecb-8df12d1772a5.PNG" widht="200" height="350" /><img src="https://user-images.githubusercontent.com/64003300/179444700-03bc973b-3700-4235-bb89-5ca3db2bb7cd.PNG" widht="200" height="350" />
